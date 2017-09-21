@@ -1,2 +1,2 @@
 # test1
-testing github configuration credentials and commands
+test commit , testing github configuration credentials and commands
